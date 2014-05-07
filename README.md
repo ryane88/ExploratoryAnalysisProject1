@@ -1,12 +1,14 @@
 #Exploratory Data Anlysis Project1
 
 ###Repository description
-The scripts plot1.R, plot2.R, plot3.R and plot4.R create PNG files plot1,plot2,plot3, and plot4 as detailed in the project description. The scripts validate the presence of the original data file, load a subset of the data from the dates 2007-02-01 and 2007-02-02. 
+The scripts plot1.R, plot2.R, plot3.R and plot4.R create PNG files plot1,plot2,plot3, and plot4 as detailed 
+in the project description. The scripts validate the presence of the original data file, load a subset of 
+the data from the dates 2007-02-01 and 2007-02-02. 
 
 The complete data file contains electrical usage for one household over a 4 year period**[1]**
 
 The data set contains the following columns
-&nbsp;
+
 1.Date: format:dd/mm/yyyy
 2.Time: format hh:mm:ss
 3.Global_active_power: household global minute-averaged active power as kilowatts)
