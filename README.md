@@ -6,7 +6,7 @@ The scripts plot1.R, plot2.R, plot3.R and plot4.R create PNG files plot1,plot2,p
 The complete data file contains electrical usage for one household over a 4 year period**[1]**
 
 The data set contains the following columns
-
+&nbsp;
 1.Date: format:dd/mm/yyyy
 2.Time: format hh:mm:ss
 3.Global_active_power: household global minute-averaged active power as kilowatts)
