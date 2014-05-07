@@ -1,9 +1,9 @@
 #Exploratory Data Anlysis Project1
 
 ###Repository description
-The scripts plot1.R, plot2.R, plot3.R and plot4.R create PNG files plot1,plot2,plot3, and plot4 as detailed 
+The scripts **plot1.R, plot2.R, plot3.R** and **plot4.R** create PNG files **plot1,plot2,plot3,** and **plot4** as detailed 
 in the project description. The scripts validate the presence of the original data file, load a subset of 
-the data from the dates 2007-02-01 and 2007-02-02. 
+the data from the dates 2007/02/01 and 2007/02/02. 
 
 The complete data file contains electrical usage for one household over a 4 year period**1**
 
