@@ -5,7 +5,7 @@ The scripts **plot1.R, plot2.R, plot3.R** and **plot4.R** create PNG files **plo
 in the project description. The scripts validate the presence of the original data file, load a subset of 
 the data from the dates 2007/02/01 and 2007/02/02. 
 
-The complete data file contains electrical usage for one household over a 4 year period**1**
+The complete data file contains electrical usage for one household over a 4 year period  **1**
 
 The data set contains the following columns
 
