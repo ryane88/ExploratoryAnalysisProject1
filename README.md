@@ -9,15 +9,15 @@ The complete data file contains electrical usage for one household over a 4 year
 
 The data set contains the following columns
 
-1.Date: format:dd/mm/yyyy
-2.Time: format hh:mm:ss
-3.Global_active_power: household global minute-averaged active power as kilowatts)
-4.Global_reactive_power: household global minute-averaged reactive power as kilowatts)
-5.Voltage: minute-averaged voltage as volts)
-6.Global_intensity: household global minute-averaged current intensity as amperes
-7.Sub_metering_1: Corresponds to energy use in watt-hours in the kitchen
-8.Sub_metering_2: Corresponds to energy use in watt-hours in the laundry room
-9.Sub_metering_3: Corresponds to energy use in watt-hours for electric water-heater and an air-conditioner.
+1.Date: format:dd/mm/yyyy  
+2.Time: format hh:mm:ss  
+3.Global_active_power: household global minute-averaged active power as kilowatts)  
+4.Global_reactive_power: household global minute-averaged reactive power as kilowatts)  
+5.Voltage: minute-averaged voltage as volts)  
+6.Global_intensity: household global minute-averaged current intensity as amperes  
+7.Sub_metering_1: Corresponds to energy use in watt-hours in the kitchen  
+8.Sub_metering_2: Corresponds to energy use in watt-hours in the laundry room  
+9.Sub_metering_3: Corresponds to energy use in watt-hours for electric water-heater and an air-conditioner.  
 
 an additional column "datetime" was created combining date and time into a POSIXct format for plotting
 
